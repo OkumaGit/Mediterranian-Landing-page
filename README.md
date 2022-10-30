@@ -1,1 +1,1 @@
-# website
+# Mediterranian Detox Landing page
